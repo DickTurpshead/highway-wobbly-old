@@ -1,0 +1,9 @@
+#site settings
+title: my first jekyll website
+author:
+  name:dick turpshead
+  email: dickturpshead@gmail.com
+desctiption: "second attemp due to errors in first"
+
+#build settings
+remote_theme: jekyll/minima
